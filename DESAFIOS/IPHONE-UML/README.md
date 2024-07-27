@@ -6,10 +6,6 @@ Desafio Iphone -  Programação Orientada a Objetos com Java
 DIO/Santander
 </h2>
 
-<h2 align="center">
-DIO/Santander
-</h2>
-
 <p align="center">
 	<b><i>
 Modelagem e diagramação da representação em UML e Código no que se refere ao iPhone. 
