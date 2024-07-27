@@ -1,6 +1,14 @@
 
 <h1 align="center">
+<<<<<<< HEAD:DESAFIOS/IPHONE-UML/README.md
 Desafio Iphone -  Programação Orientada a Objetos com Java
+=======
+DIO/Santander
+</h1>
+
+<h1 align="center">
+ Desafio Iphone -  Programação Orientada a Objetos com Java
+>>>>>>> eab67e6fbfbb3abc467a7060463503e30820d3ec:DESAFIOS/DESAFIO_IPHONE/README.md
 </h1>
 
 <h2 align="center">
@@ -9,7 +17,7 @@ DIO/Santander
 
 <p align="center">
 	<b><i>
-Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone. 
+Modelagem e diagramação da representação em UML e Código no que se refere ao iPhone. 
   </i></b>
 </p>
 
