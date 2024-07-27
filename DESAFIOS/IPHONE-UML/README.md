@@ -1,8 +1,11 @@
 
 <h1 align="center">
-DIO/Santander
- Desafio Iphone -  Programação Orientada a Objetos com Java
+Desafio Iphone -  Programação Orientada a Objetos com Java
 </h1>
+
+<h2 align="center">
+DIO/Santander
+</h2>
 
 <p align="center">
 	<b><i>
